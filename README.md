@@ -15,4 +15,4 @@ In this project:
 
 ## Simulation
 
-To verify the design, a **2D inviscid flow simulation** of the nozzle was performed in ANSYS Fluent using a CAD model created in SolidWorks. The simulation produced an exit Mach number of approximately **2.47**, closely matching the design target. :contentReference[oaicite:3]{index=3}
+To verify the design, a **2D inviscid flow simulation** of the nozzle was performed in ANSYS Fluent using a CAD model created in SolidWorks. The simulation produced an exit Mach number of approximately **2.47**, closely matching the design target.
