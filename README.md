@@ -4,14 +4,14 @@ This project focuses on the design of a **minimum-length supersonic nozzle** usi
 
 ## Project Overview
 
-The Method of Characteristics converts the nonlinear partial differential equations governing supersonic compressible flow into characteristic relations that can be solved along specific directions in the flow field. By constructing a characteristic mesh, the flow properties such as Mach number, flow angle, and pressure are computed iteratively, allowing the contour of the nozzle wall to be determined. :contentReference[oaicite:1]{index=1}
+The Method of Characteristics converts the nonlinear partial differential equations governing supersonic compressible flow into characteristic relations that can be solved along specific directions in the flow field. By constructing a characteristic mesh, the flow properties such as Mach number, flow angle, and pressure are computed iteratively, allowing the contour of the nozzle wall to be determined. 
 
 In this project:
 
 - A **minimum-length nozzle** configuration is designed starting from the throat where the flow reaches Mach 1.
 - Characteristic lines are generated to compute the expansion of the flow in the divergent section.
 - The wall contour is obtained from the intersection of characteristic lines with the nozzle boundary.
-- The final nozzle shape is calculated to achieve a target **exit Mach number of approximately 2.5**. :contentReference[oaicite:2]{index=2}
+- The final nozzle shape is calculated to achieve a target **exit Mach number of approximately 2.5**. 
 
 ## Simulation
 
